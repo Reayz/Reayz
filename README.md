@@ -17,6 +17,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=reayz&count_private=true&theme=merko)
 
+<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hijal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&" /></p>
 
