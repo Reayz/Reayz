@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&" /></p>
 
+<p><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reayz&layout=compact&langs_count=8&theme=algolia"/></p>
+
 
 ---
 
