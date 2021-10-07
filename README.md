@@ -1,8 +1,6 @@
-### Hi there 👋, I am Reajul Haque Reayz! 
+# Hi there 👋, I am Reajul Haque Reayz! 
 
-## Building [100daysof.codes](http://100daysof.codes/)      
-
-### A passionate full-stack web developer and maverick, who thinks outside the box, take risks and have a relentless drive to reinvent and revolutionise the system.
+### Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, JavaScripts, Problem-solving, Algorithms, Data structure, Object-Oriented Programming (OOP) etc.
 
 ---
 
