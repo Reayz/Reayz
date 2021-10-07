@@ -6,7 +6,7 @@
 
 ### GitHub Stats
 
-<p><img height=200 width=400 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reayz&layout=compact&langs_count=10&theme=dark"/></p>
+<p><img height=300 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reayz&layout=compact&langs_count=10&theme=dark"/></p>
 
 <p><img height=200 width=400 src="https://github-readme-stats-eight-theta.vercel.app/api?username=reayz&show_icons=true&theme=dark&include_all_commits=true"/> </p>
 
