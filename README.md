@@ -19,12 +19,11 @@
  <a href="https://www.linkedin.com/in/reayz/" target="_blank">
    <img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/linkedin.png?raw=true">
  </a>
+  <a href="https://stackoverflow.com/users/8133191/reayz" target="_blank">
+   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg">
+ </a>
  <a href="https://twitter.com/reayz77" target="_blank">
    <img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true">
  </a>
- <a href="https://stackoverflow.com/users/8133191/reayz" target="_blank">
-   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg">
- </a>
- 
 </p>
 
