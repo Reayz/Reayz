@@ -12,7 +12,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&" /></p>
 
----
 
 ## Let's Connect :people_holding_hands:
 
@@ -22,4 +21,3 @@
  </a>
 </p>
 
----
