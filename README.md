@@ -12,7 +12,6 @@
 
 <p><img height=200 width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&theme=dark"/></p>
 
-
 ## Let's Connect :people_holding_hands:
 
 <p align='center'>
@@ -26,4 +25,3 @@
    <img height="50" src="https://github.com/NishkarshRaj/NishkarshRaj/blob/master/img/twitter.png?raw=true">
  </a>
 </p>
-
