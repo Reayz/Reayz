@@ -1,4 +1,4 @@
-# Hi there 👋, I am Reajul Haque Reayz! 
+# Hi there 👋 I am Reajul Haque Reayz! 
 
 ### Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, JavaScripts, Problem-solving, Algorithms, Data structure, Object-Oriented Programming (OOP) etc.
 
