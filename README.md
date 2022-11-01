@@ -1,8 +1,8 @@
-# Hi there 👋 I am Reajul Haque Reayz!!
+# Hi there 👋 I am Reajul Haque Reayz!
 
-### Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, JavaScripts, Problem-solving, Algorithms, Data structure, Object-Oriented Programming (OOP) etc.
----
-Skills at: 
+<p> Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, JavaScripts, Problem-solving, Algorithms, Data structure, Object-Oriented Programming (OOP) etc. </p>
+
+## Skilled at: 
 * ASP.Net Framework
 * ASP.Net Core
 * ASP.NET Web API
@@ -15,13 +15,13 @@ Skills at:
 
 ### GitHub Stats
 
-<p><img height=300 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reayz&layout=compact&langs_count=10&theme=dark"/></p>
+<p float="left">
+ <img height=200 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api?username=reayz&show_icons=true&theme=dark&include_all_commits=true" />
+ <img height=200 width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&theme=dark" />
+</p>
 
-<p><img height=200 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api?username=reayz&show_icons=true&theme=dark&include_all_commits=true"/> </p>
 
-<p><img height=200 width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&theme=dark"/></p>
-
-## Let's Connect :people_holding_hands:
+### Let's Connect :people_holding_hands:
 
 <p align='center'>
  <a href="https://www.linkedin.com/in/reayz/" target="_blank">
