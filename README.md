@@ -16,8 +16,8 @@
 ### GitHub Stats
 
 <p float="left">
- <img height=200 width=500 src="https://github-readme-stats-eight-theta.vercel.app/api?username=reayz&show_icons=true&theme=dark&include_all_commits=true" />
- <img height=200 width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&theme=dark" />
+ <img height=200 width=480 src="https://github-readme-stats-eight-theta.vercel.app/api?username=reayz&show_icons=true&theme=dark&include_all_commits=true" />
+ <img height=200 width=480 src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&theme=dark" />
 </p>
 
 
