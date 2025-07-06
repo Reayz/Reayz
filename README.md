@@ -1,17 +1,27 @@
 # Hi there 👋 I am Reajul Haque Reayz!
 
-<p> Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, JavaScripts, Problem-solving, Algorithms, Data structure, Object-Oriented Programming (OOP) etc. </p>
+<p>Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, Entity Framework, JavaScript, PostgreSQL, PostGIS, Docker, MicroServices, etc. </p>
 
 ## Skilled at: 
-* ASP.Net Framework
-* ASP.Net Core
+* ASP.NET Framework
+* ASP.NET Core
+* ASP.NET MVC
 * ASP.NET Web API
 * ASP.NET Web Forms
-* MS SQL 
+* Entity Framework
+* ADO.NET
+* gRPC
+* MS SQL
+* MySQL 
+* PostgreSQL
+* PostGIS
 * JavaScript
-* React
+* ReactJS
+* AngularJS
 * Algorithm
-* Data Structure 
+* Data Structure
+* Docker
+* MicroServices 
 
 ### GitHub Stats
 
@@ -29,8 +39,5 @@
  </a>
   <a href="https://stackoverflow.com/users/8133191/reayz" target="_blank">
    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg">
- </a>
- <a href="https://twitter.com/reayz77" target="_blank">
-   <img height="50" src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg">
  </a>
 </p>
