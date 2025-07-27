@@ -1,15 +1,16 @@
 # Hi there 👋 I am Reajul Haque Reayz!
 
-<p>Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, Entity Framework, JavaScript, PostgreSQL, PostGIS, Docker, MicroServices, etc. </p>
+<p>Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in ASP.NET, Entity Framework, JavaScript, PostgreSQL, PostGIS, Docker, MicroServices, ReactJS, etc. </p>
 
 ## Skilled at: 
-* ASP.NET Framework
 * ASP.NET Core
+* ASP.NET Framework
 * ASP.NET MVC
 * ASP.NET Web API
 * ASP.NET Web Forms
 * Entity Framework
 * ADO.NET
+* Dapper
 * gRPC
 * MS SQL
 * MySQL 
