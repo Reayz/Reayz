@@ -24,13 +24,9 @@
 * Docker
 * MicroServices 
 
-### GitHub Stats
-
 <p float="left">
  <img height=200 width=420 src="https://github-readme-stats-eight-theta.vercel.app/api?username=reayz&show_icons=true&theme=dark&include_all_commits=true" />
- <img height=200 width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=reayz&theme=dark" />
 </p>
-
 
 ### Let's Connect :people_holding_hands:
 
